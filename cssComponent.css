@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+#game-container {
+  margin-top: 30px;
+}
+
+#result-message {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#attempts {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#new-game-button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
